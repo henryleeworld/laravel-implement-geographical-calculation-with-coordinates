@@ -1,4 +1,4 @@
-# Laravel 9 用經緯度座標實現地理計算
+# Laravel 10 用經緯度座標實現地理計算
 
 引入 kmlaravel 的 laravel-geographical-calculator 套件來擴增用經緯度座標實現地理計算，經緯線是一套適用於全球的定位座標系統，由地心、南極、北極三個定點，以及地軸和赤道兩條定線所構成的球面座標。
 
@@ -22,5 +22,5 @@ $ php artisan key:generate
 ----
 
 ## 畫面截圖
-![](https://i.imgur.com/cKUB6Fh.png)
+![](https://i.imgur.com/AFB4yYQ.png)
 > 用兩個經緯度座標計算距離
